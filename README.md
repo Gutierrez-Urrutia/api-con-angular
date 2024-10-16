@@ -8,4 +8,4 @@ Abrir terminal en vscode, navegar a la carpeta del proyecto
 
 npm install
 
-ionic start
+ionic serve
